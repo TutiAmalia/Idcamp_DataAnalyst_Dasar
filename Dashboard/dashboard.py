@@ -8,14 +8,13 @@ st.set_page_config(page_title="E-commerce Insights")
 st.title(
     "E-commerce Insights"
 )
-
 # Load data
-product_count_english_df = pd.read_csv('product_count_english_df.csv')
-review_product_count = pd.read_csv('review_product_count.csv')
-customers_df = pd.read_csv('customers_df.csv')
-total_revenue_df = pd.read_csv('total_revenue_df.csv')
-order_payment_df = pd.read_csv('order_payment_df.csv')
-orders_df = pd.read_csv('orders_df.csv')
+product_count_english_df = pd.read_csv(r'product_count_english_df.csv')
+review_product_count = pd.read_csv(r'review_product_count.csv')
+customers_df = pd.read_csv(r'customers_df.csv')
+total_revenue_df = pd.read_csv(r'total_revenue_df.csv')
+order_payment_df = pd.read_csv(r'order_payment_df.csv')
+orders_df = pd.read_csv(r'orders_df.csv')
 
 # Define color palette
 colors = ['#068DA9', '#D3D3D3', '#D3D3D3', '#D3D3D3', '#D3D3D3']
