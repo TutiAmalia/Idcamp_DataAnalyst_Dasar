@@ -1,4 +1,4 @@
-python==3.10.11
+python-dotenv
 streamlit==1.2.0
 pandas==1.4.2
 matplotlib==3.7.1
