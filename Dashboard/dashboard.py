@@ -9,12 +9,12 @@ st.title(
     "E-commerce Insights"
 )
 # Load data
-product_count_english_df = pd.read_csv(r'product_count_english_df.csv')
-review_product_count = pd.read_csv(r'review_product_count.csv')
-customers_df = pd.read_csv(r'customers_df.csv')
-total_revenue_df = pd.read_csv(r'total_revenue_df.csv')
-order_payment_df = pd.read_csv(r'order_payment_df.csv')
-orders_df = pd.read_csv(r'orders_df.csv')
+product_count_english_df = pd.read_csv('Dashboard/product_count_english_df.csv')
+review_product_count = pd.read_csv('Dashboard/review_product_count.csv')
+customers_df = pd.read_csv('Dashboard/customers_df.csv')
+total_revenue_df = pd.read_csv('Dashboard/total_revenue_df.csv')
+order_payment_df = pd.read_csv('Dashboard/order_payment_df.csv')
+orders_df = pd.read_csv('Dashboard/orders_df.csv')
 
 # Define color palette
 colors = ['#068DA9', '#D3D3D3', '#D3D3D3', '#D3D3D3', '#D3D3D3']
