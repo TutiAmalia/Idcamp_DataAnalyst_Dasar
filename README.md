@@ -18,6 +18,4 @@ streamlit run dashboard.py
 ```
 ```
 Atau kunjungi link berikut [Project Data Analytics](https://idcampdataanalystdasar-8nfyyxkmyh3d5bhkwe9baz.streamlit.app/)
-=======
-Atau kunjungi link berikut [Project Data Analytics](https://idcampdataanalystdasar-8nfyyxkmyh3d5bhkwe9baz.streamlit.app/)
 ```
