@@ -16,8 +16,8 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run dashboard.py
 ```
-<<<<<<< HEAD
+```
 Atau kunjungi link berikut [Project Data Analytics](https://idcampdataanalystdasar-8nfyyxkmyh3d5bhkwe9baz.streamlit.app/)
 =======
 Atau kunjungi link berikut [Project Data Analytics](https://idcampdataanalystdasar-8nfyyxkmyh3d5bhkwe9baz.streamlit.app/)
->>>>>>> 123b866f35eb44966d6d6abe9e3c6df9fb09f2cb
+```
